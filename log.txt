@@ -1,0 +1,758 @@
+[2025-09-02 23:25:53] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:25:53] 
+==================================================
+[2025-09-02 23:25:53] New Loop Start at 2025-09-02 23:25:53.116308
+[2025-09-02 23:25:53] --- Account Status ---
+[2025-09-02 23:25:53] Account Balance: 25.79
+[2025-09-02 23:25:53] Account Equity: 25.45
+[2025-09-02 23:25:53] Used Margin: 17.62
+[2025-09-02 23:25:53] Free Margin: 7.83
+[2025-09-02 23:25:53] Margin Level: 144.44%
+[2025-09-02 23:25:53] ----------------------
+[2025-09-02 23:25:53] Checking for signals...
+[2025-09-02 23:25:53] Failed to get rates for XAUUSDUSDm, error code=(-1, 'Terminal: Call failed')
+[2025-09-02 23:26:07] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:26:07] 
+==================================================
+[2025-09-02 23:26:07] New Loop Start at 2025-09-02 23:26:07.809042
+[2025-09-02 23:26:07] --- Account Status ---
+[2025-09-02 23:26:07] Account Balance: 25.79
+[2025-09-02 23:26:07] Account Equity: 25.15
+[2025-09-02 23:26:07] Used Margin: 17.62
+[2025-09-02 23:26:07] Free Margin: 7.53
+[2025-09-02 23:26:07] Margin Level: 142.74%
+[2025-09-02 23:26:07] ----------------------
+[2025-09-02 23:26:07] Checking for signals...
+[2025-09-02 23:26:07] No active trading signal. Holding current state.
+[2025-09-02 23:26:07] Managing 1 open position(s)...
+[2025-09-02 23:26:07] --- Analyzing Position Ticket: 2258154657 ---
+[2025-09-02 23:26:07] Position 2258154657 has no SL/TP. Setting them now.
+[2025-09-02 23:26:08] SL/TP successfully modified for ticket 2258154657.
+[2025-09-02 23:26:08] Position 2258154657 current profit/loss: -0.64
+[2025-09-02 23:26:08] Waiting for the next loop...
+[2025-09-02 23:26:38] 
+==================================================
+[2025-09-02 23:26:38] New Loop Start at 2025-09-02 23:26:38.953727
+[2025-09-02 23:26:38] --- Account Status ---
+[2025-09-02 23:26:38] Account Balance: 25.79
+[2025-09-02 23:26:38] Account Equity: 24.78
+[2025-09-02 23:26:38] Used Margin: 17.62
+[2025-09-02 23:26:38] Free Margin: 7.16
+[2025-09-02 23:26:38] Margin Level: 140.64%
+[2025-09-02 23:26:38] ----------------------
+[2025-09-02 23:26:38] Checking for signals...
+[2025-09-02 23:26:38] No active trading signal. Holding current state.
+[2025-09-02 23:26:38] Managing 1 open position(s)...
+[2025-09-02 23:26:38] --- Analyzing Position Ticket: 2258154657 ---
+[2025-09-02 23:26:38] Position 2258154657 current profit/loss: -1.01
+[2025-09-02 23:26:38] Waiting for the next loop...
+[2025-09-02 23:27:37] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:27:37] 
+==================================================
+[2025-09-02 23:27:37] New Loop Start at 2025-09-02 23:27:37.321108
+[2025-09-02 23:27:37] --- Account Status ---
+[2025-09-02 23:27:37] Account Balance: 25.79
+[2025-09-02 23:27:37] Account Equity: 24.64
+[2025-09-02 23:27:37] Used Margin: 17.62
+[2025-09-02 23:27:37] Free Margin: 7.02
+[2025-09-02 23:27:37] Margin Level: 139.84%
+[2025-09-02 23:27:37] ----------------------
+[2025-09-02 23:27:37] Checking for signals...
+[2025-09-02 23:27:37] No active trading signal. Holding current state.
+[2025-09-02 23:27:37] Managing 1 open position(s)...
+[2025-09-02 23:27:37] --- Analyzing Position Ticket: 2258154657 ---
+[2025-09-02 23:27:37] Position 2258154657 has no SL/TP. Setting them now.
+[2025-09-02 23:27:38] SL/TP successfully modified for ticket 2258154657.
+[2025-09-02 23:27:38] Position 2258154657 current profit/loss: -1.15
+[2025-09-02 23:27:38] Waiting for the next loop...
+[2025-09-02 23:28:08] 
+==================================================
+[2025-09-02 23:28:08] New Loop Start at 2025-09-02 23:28:08.126165
+[2025-09-02 23:28:08] --- Account Status ---
+[2025-09-02 23:28:08] Account Balance: 25.79
+[2025-09-02 23:28:08] Account Equity: 24.39
+[2025-09-02 23:28:08] Used Margin: 17.62
+[2025-09-02 23:28:08] Free Margin: 6.77
+[2025-09-02 23:28:08] Margin Level: 138.42%
+[2025-09-02 23:28:08] ----------------------
+[2025-09-02 23:28:08] Checking for signals...
+[2025-09-02 23:28:08] No active trading signal. Holding current state.
+[2025-09-02 23:28:08] Managing 1 open position(s)...
+[2025-09-02 23:28:08] --- Analyzing Position Ticket: 2258154657 ---
+[2025-09-02 23:28:08] Position 2258154657 has a loss of -1.40 (5.43% of balance). Cutting loss.
+[2025-09-02 23:28:08] Position 2258154657 closed successfully with volume 0.01.
+[2025-09-02 23:28:08] Position 2258154657 current profit/loss: -1.40
+[2025-09-02 23:28:08] Waiting for the next loop...
+[2025-09-02 23:28:38] 
+==================================================
+[2025-09-02 23:28:38] New Loop Start at 2025-09-02 23:28:38.985104
+[2025-09-02 23:28:38] --- Account Status ---
+[2025-09-02 23:28:38] Account Balance: 24.39
+[2025-09-02 23:28:38] Account Equity: 24.39
+[2025-09-02 23:28:38] Used Margin: 0.00
+[2025-09-02 23:28:38] Free Margin: 24.39
+[2025-09-02 23:28:38] Margin Level: N/A (No margin used)
+[2025-09-02 23:28:38] ----------------------
+[2025-09-02 23:28:38] Checking for signals...
+[2025-09-02 23:28:38] No active trading signal. Holding current state.
+[2025-09-02 23:28:38] No positions to manage.
+[2025-09-02 23:28:38] Waiting for the next loop...
+[2025-09-02 23:29:09] 
+==================================================
+[2025-09-02 23:29:09] New Loop Start at 2025-09-02 23:29:09.004387
+[2025-09-02 23:29:09] --- Account Status ---
+[2025-09-02 23:29:09] Account Balance: 24.39
+[2025-09-02 23:29:09] Account Equity: 24.39
+[2025-09-02 23:29:09] Used Margin: 0.00
+[2025-09-02 23:29:09] Free Margin: 24.39
+[2025-09-02 23:29:09] Margin Level: N/A (No margin used)
+[2025-09-02 23:29:09] ----------------------
+[2025-09-02 23:29:09] Checking for signals...
+[2025-09-02 23:29:09] No active trading signal. Holding current state.
+[2025-09-02 23:29:09] No positions to manage.
+[2025-09-02 23:29:09] Waiting for the next loop...
+[2025-09-02 23:29:39] 
+==================================================
+[2025-09-02 23:29:39] New Loop Start at 2025-09-02 23:29:39.026858
+[2025-09-02 23:29:39] --- Account Status ---
+[2025-09-02 23:29:39] Account Balance: 24.39
+[2025-09-02 23:29:39] Account Equity: 24.39
+[2025-09-02 23:29:39] Used Margin: 0.00
+[2025-09-02 23:29:39] Free Margin: 24.39
+[2025-09-02 23:29:39] Margin Level: N/A (No margin used)
+[2025-09-02 23:29:39] ----------------------
+[2025-09-02 23:29:39] Checking for signals...
+[2025-09-02 23:29:39] No active trading signal. Holding current state.
+[2025-09-02 23:29:39] No positions to manage.
+[2025-09-02 23:29:39] Waiting for the next loop...
+[2025-09-02 23:30:22] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:30:22] 
+==================================================
+[2025-09-02 23:30:22] New Loop Start at 2025-09-02 23:30:22.222045
+[2025-09-02 23:30:22] --- Account Status ---
+[2025-09-02 23:30:22] Account Balance: 24.39
+[2025-09-02 23:30:22] Account Equity: 24.39
+[2025-09-02 23:30:22] Used Margin: 0.00
+[2025-09-02 23:30:22] Free Margin: 24.39
+[2025-09-02 23:30:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:30:22] ----------------------
+[2025-09-02 23:30:22] Checking for signals...
+[2025-09-02 23:30:22] No active trading signal. Holding current state.
+[2025-09-02 23:30:22] No positions to manage.
+[2025-09-02 23:30:22] Waiting for the next loop...
+[2025-09-02 23:30:52] 
+==================================================
+[2025-09-02 23:30:52] New Loop Start at 2025-09-02 23:30:52.328570
+[2025-09-02 23:30:52] --- Account Status ---
+[2025-09-02 23:30:52] Account Balance: 24.39
+[2025-09-02 23:30:52] Account Equity: 24.39
+[2025-09-02 23:30:52] Used Margin: 0.00
+[2025-09-02 23:30:52] Free Margin: 24.39
+[2025-09-02 23:30:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:30:52] ----------------------
+[2025-09-02 23:30:52] Checking for signals...
+[2025-09-02 23:30:52] No active trading signal. Holding current state.
+[2025-09-02 23:30:52] No positions to manage.
+[2025-09-02 23:30:52] --- Pending Orders ---
+[2025-09-02 23:30:52] Order Ticket: 2258179792, Type: 5, Price: 3523.15
+[2025-09-02 23:30:52] ----------------------
+[2025-09-02 23:30:52] Waiting for the next loop...
+[2025-09-02 23:31:22] 
+==================================================
+[2025-09-02 23:31:22] New Loop Start at 2025-09-02 23:31:22.354398
+[2025-09-02 23:31:22] --- Account Status ---
+[2025-09-02 23:31:22] Account Balance: 24.39
+[2025-09-02 23:31:22] Account Equity: 24.39
+[2025-09-02 23:31:22] Used Margin: 0.00
+[2025-09-02 23:31:22] Free Margin: 24.39
+[2025-09-02 23:31:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:31:22] ----------------------
+[2025-09-02 23:31:22] Checking for signals...
+[2025-09-02 23:31:22] No active trading signal. Holding current state.
+[2025-09-02 23:31:22] No positions to manage.
+[2025-09-02 23:31:22] --- Pending Orders ---
+[2025-09-02 23:31:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:31:22] ----------------------
+[2025-09-02 23:31:22] Waiting for the next loop...
+[2025-09-02 23:31:52] 
+==================================================
+[2025-09-02 23:31:52] New Loop Start at 2025-09-02 23:31:52.386144
+[2025-09-02 23:31:52] --- Account Status ---
+[2025-09-02 23:31:52] Account Balance: 24.39
+[2025-09-02 23:31:52] Account Equity: 24.39
+[2025-09-02 23:31:52] Used Margin: 0.00
+[2025-09-02 23:31:52] Free Margin: 24.39
+[2025-09-02 23:31:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:31:52] ----------------------
+[2025-09-02 23:31:52] Checking for signals...
+[2025-09-02 23:31:52] No active trading signal. Holding current state.
+[2025-09-02 23:31:52] No positions to manage.
+[2025-09-02 23:31:52] --- Pending Orders ---
+[2025-09-02 23:31:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:31:52] ----------------------
+[2025-09-02 23:31:52] Waiting for the next loop...
+[2025-09-02 23:32:22] 
+==================================================
+[2025-09-02 23:32:22] New Loop Start at 2025-09-02 23:32:22.411478
+[2025-09-02 23:32:22] --- Account Status ---
+[2025-09-02 23:32:22] Account Balance: 24.39
+[2025-09-02 23:32:22] Account Equity: 24.39
+[2025-09-02 23:32:22] Used Margin: 0.00
+[2025-09-02 23:32:22] Free Margin: 24.39
+[2025-09-02 23:32:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:32:22] ----------------------
+[2025-09-02 23:32:22] Checking for signals...
+[2025-09-02 23:32:22] No active trading signal. Holding current state.
+[2025-09-02 23:32:22] No positions to manage.
+[2025-09-02 23:32:22] --- Pending Orders ---
+[2025-09-02 23:32:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:32:22] ----------------------
+[2025-09-02 23:32:22] Waiting for the next loop...
+[2025-09-02 23:32:52] 
+==================================================
+[2025-09-02 23:32:52] New Loop Start at 2025-09-02 23:32:52.433296
+[2025-09-02 23:32:52] --- Account Status ---
+[2025-09-02 23:32:52] Account Balance: 24.39
+[2025-09-02 23:32:52] Account Equity: 24.39
+[2025-09-02 23:32:52] Used Margin: 0.00
+[2025-09-02 23:32:52] Free Margin: 24.39
+[2025-09-02 23:32:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:32:52] ----------------------
+[2025-09-02 23:32:52] Checking for signals...
+[2025-09-02 23:32:52] No active trading signal. Holding current state.
+[2025-09-02 23:32:52] No positions to manage.
+[2025-09-02 23:32:52] --- Pending Orders ---
+[2025-09-02 23:32:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:32:52] ----------------------
+[2025-09-02 23:32:52] Waiting for the next loop...
+[2025-09-02 23:33:22] 
+==================================================
+[2025-09-02 23:33:22] New Loop Start at 2025-09-02 23:33:22.461030
+[2025-09-02 23:33:22] --- Account Status ---
+[2025-09-02 23:33:22] Account Balance: 24.39
+[2025-09-02 23:33:22] Account Equity: 24.39
+[2025-09-02 23:33:22] Used Margin: 0.00
+[2025-09-02 23:33:22] Free Margin: 24.39
+[2025-09-02 23:33:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:33:22] ----------------------
+[2025-09-02 23:33:22] Checking for signals...
+[2025-09-02 23:33:22] No active trading signal. Holding current state.
+[2025-09-02 23:33:22] No positions to manage.
+[2025-09-02 23:33:22] --- Pending Orders ---
+[2025-09-02 23:33:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:33:22] ----------------------
+[2025-09-02 23:33:22] Waiting for the next loop...
+[2025-09-02 23:33:52] 
+==================================================
+[2025-09-02 23:33:52] New Loop Start at 2025-09-02 23:33:52.485741
+[2025-09-02 23:33:52] --- Account Status ---
+[2025-09-02 23:33:52] Account Balance: 24.39
+[2025-09-02 23:33:52] Account Equity: 24.39
+[2025-09-02 23:33:52] Used Margin: 0.00
+[2025-09-02 23:33:52] Free Margin: 24.39
+[2025-09-02 23:33:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:33:52] ----------------------
+[2025-09-02 23:33:52] Checking for signals...
+[2025-09-02 23:33:52] No active trading signal. Holding current state.
+[2025-09-02 23:33:52] No positions to manage.
+[2025-09-02 23:33:52] --- Pending Orders ---
+[2025-09-02 23:33:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:33:52] ----------------------
+[2025-09-02 23:33:52] Waiting for the next loop...
+[2025-09-02 23:34:22] 
+==================================================
+[2025-09-02 23:34:22] New Loop Start at 2025-09-02 23:34:22.505460
+[2025-09-02 23:34:22] --- Account Status ---
+[2025-09-02 23:34:22] Account Balance: 24.39
+[2025-09-02 23:34:22] Account Equity: 24.39
+[2025-09-02 23:34:22] Used Margin: 0.00
+[2025-09-02 23:34:22] Free Margin: 24.39
+[2025-09-02 23:34:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:34:22] ----------------------
+[2025-09-02 23:34:22] Checking for signals...
+[2025-09-02 23:34:22] No active trading signal. Holding current state.
+[2025-09-02 23:34:22] No positions to manage.
+[2025-09-02 23:34:22] --- Pending Orders ---
+[2025-09-02 23:34:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:34:22] ----------------------
+[2025-09-02 23:34:22] Waiting for the next loop...
+[2025-09-02 23:34:52] 
+==================================================
+[2025-09-02 23:34:52] New Loop Start at 2025-09-02 23:34:52.529113
+[2025-09-02 23:34:52] --- Account Status ---
+[2025-09-02 23:34:52] Account Balance: 24.39
+[2025-09-02 23:34:52] Account Equity: 24.39
+[2025-09-02 23:34:52] Used Margin: 0.00
+[2025-09-02 23:34:52] Free Margin: 24.39
+[2025-09-02 23:34:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:34:52] ----------------------
+[2025-09-02 23:34:52] Checking for signals...
+[2025-09-02 23:34:52] No active trading signal. Holding current state.
+[2025-09-02 23:34:52] No positions to manage.
+[2025-09-02 23:34:52] --- Pending Orders ---
+[2025-09-02 23:34:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:34:52] ----------------------
+[2025-09-02 23:34:52] Waiting for the next loop...
+[2025-09-02 23:35:22] 
+==================================================
+[2025-09-02 23:35:22] New Loop Start at 2025-09-02 23:35:22.553824
+[2025-09-02 23:35:22] --- Account Status ---
+[2025-09-02 23:35:22] Account Balance: 24.39
+[2025-09-02 23:35:22] Account Equity: 24.39
+[2025-09-02 23:35:22] Used Margin: 0.00
+[2025-09-02 23:35:22] Free Margin: 24.39
+[2025-09-02 23:35:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:35:22] ----------------------
+[2025-09-02 23:35:22] Checking for signals...
+[2025-09-02 23:35:22] No active trading signal. Holding current state.
+[2025-09-02 23:35:22] No positions to manage.
+[2025-09-02 23:35:22] --- Pending Orders ---
+[2025-09-02 23:35:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:35:22] ----------------------
+[2025-09-02 23:35:22] Waiting for the next loop...
+[2025-09-02 23:35:52] 
+==================================================
+[2025-09-02 23:35:52] New Loop Start at 2025-09-02 23:35:52.575122
+[2025-09-02 23:35:52] --- Account Status ---
+[2025-09-02 23:35:52] Account Balance: 24.39
+[2025-09-02 23:35:52] Account Equity: 24.39
+[2025-09-02 23:35:52] Used Margin: 0.00
+[2025-09-02 23:35:52] Free Margin: 24.39
+[2025-09-02 23:35:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:35:52] ----------------------
+[2025-09-02 23:35:52] Checking for signals...
+[2025-09-02 23:35:52] No active trading signal. Holding current state.
+[2025-09-02 23:35:52] No positions to manage.
+[2025-09-02 23:35:52] --- Pending Orders ---
+[2025-09-02 23:35:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:35:52] ----------------------
+[2025-09-02 23:35:52] Waiting for the next loop...
+[2025-09-02 23:36:22] 
+==================================================
+[2025-09-02 23:36:22] New Loop Start at 2025-09-02 23:36:22.596325
+[2025-09-02 23:36:22] --- Account Status ---
+[2025-09-02 23:36:22] Account Balance: 24.39
+[2025-09-02 23:36:22] Account Equity: 24.39
+[2025-09-02 23:36:22] Used Margin: 0.00
+[2025-09-02 23:36:22] Free Margin: 24.39
+[2025-09-02 23:36:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:36:22] ----------------------
+[2025-09-02 23:36:22] Checking for signals...
+[2025-09-02 23:36:22] No active trading signal. Holding current state.
+[2025-09-02 23:36:22] No positions to manage.
+[2025-09-02 23:36:22] --- Pending Orders ---
+[2025-09-02 23:36:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:36:22] ----------------------
+[2025-09-02 23:36:22] Waiting for the next loop...
+[2025-09-02 23:36:52] 
+==================================================
+[2025-09-02 23:36:52] New Loop Start at 2025-09-02 23:36:52.627462
+[2025-09-02 23:36:52] --- Account Status ---
+[2025-09-02 23:36:52] Account Balance: 24.39
+[2025-09-02 23:36:52] Account Equity: 24.39
+[2025-09-02 23:36:52] Used Margin: 0.00
+[2025-09-02 23:36:52] Free Margin: 24.39
+[2025-09-02 23:36:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:36:52] ----------------------
+[2025-09-02 23:36:52] Checking for signals...
+[2025-09-02 23:36:52] No active trading signal. Holding current state.
+[2025-09-02 23:36:52] No positions to manage.
+[2025-09-02 23:36:52] --- Pending Orders ---
+[2025-09-02 23:36:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:36:52] ----------------------
+[2025-09-02 23:36:52] Waiting for the next loop...
+[2025-09-02 23:37:22] 
+==================================================
+[2025-09-02 23:37:22] New Loop Start at 2025-09-02 23:37:22.646221
+[2025-09-02 23:37:22] --- Account Status ---
+[2025-09-02 23:37:22] Account Balance: 24.39
+[2025-09-02 23:37:22] Account Equity: 24.39
+[2025-09-02 23:37:22] Used Margin: 0.00
+[2025-09-02 23:37:22] Free Margin: 24.39
+[2025-09-02 23:37:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:37:22] ----------------------
+[2025-09-02 23:37:22] Checking for signals...
+[2025-09-02 23:37:22] No active trading signal. Holding current state.
+[2025-09-02 23:37:22] No positions to manage.
+[2025-09-02 23:37:22] --- Pending Orders ---
+[2025-09-02 23:37:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:37:22] ----------------------
+[2025-09-02 23:37:22] Waiting for the next loop...
+[2025-09-02 23:37:52] 
+==================================================
+[2025-09-02 23:37:52] New Loop Start at 2025-09-02 23:37:52.669165
+[2025-09-02 23:37:52] --- Account Status ---
+[2025-09-02 23:37:52] Account Balance: 24.39
+[2025-09-02 23:37:52] Account Equity: 24.39
+[2025-09-02 23:37:52] Used Margin: 0.00
+[2025-09-02 23:37:52] Free Margin: 24.39
+[2025-09-02 23:37:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:37:52] ----------------------
+[2025-09-02 23:37:52] Checking for signals...
+[2025-09-02 23:37:52] No active trading signal. Holding current state.
+[2025-09-02 23:37:52] No positions to manage.
+[2025-09-02 23:37:52] --- Pending Orders ---
+[2025-09-02 23:37:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:37:52] ----------------------
+[2025-09-02 23:37:52] Waiting for the next loop...
+[2025-09-02 23:38:22] 
+==================================================
+[2025-09-02 23:38:22] New Loop Start at 2025-09-02 23:38:22.690521
+[2025-09-02 23:38:22] --- Account Status ---
+[2025-09-02 23:38:22] Account Balance: 24.39
+[2025-09-02 23:38:22] Account Equity: 24.39
+[2025-09-02 23:38:22] Used Margin: 0.00
+[2025-09-02 23:38:22] Free Margin: 24.39
+[2025-09-02 23:38:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:38:22] ----------------------
+[2025-09-02 23:38:22] Checking for signals...
+[2025-09-02 23:38:22] No active trading signal. Holding current state.
+[2025-09-02 23:38:22] No positions to manage.
+[2025-09-02 23:38:22] --- Pending Orders ---
+[2025-09-02 23:38:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:38:22] ----------------------
+[2025-09-02 23:38:22] Waiting for the next loop...
+[2025-09-02 23:38:52] 
+==================================================
+[2025-09-02 23:38:52] New Loop Start at 2025-09-02 23:38:52.711312
+[2025-09-02 23:38:52] --- Account Status ---
+[2025-09-02 23:38:52] Account Balance: 24.39
+[2025-09-02 23:38:52] Account Equity: 24.39
+[2025-09-02 23:38:52] Used Margin: 0.00
+[2025-09-02 23:38:52] Free Margin: 24.39
+[2025-09-02 23:38:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:38:52] ----------------------
+[2025-09-02 23:38:52] Checking for signals...
+[2025-09-02 23:38:52] No active trading signal. Holding current state.
+[2025-09-02 23:38:52] No positions to manage.
+[2025-09-02 23:38:52] --- Pending Orders ---
+[2025-09-02 23:38:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:38:52] ----------------------
+[2025-09-02 23:38:52] Waiting for the next loop...
+[2025-09-02 23:39:22] 
+==================================================
+[2025-09-02 23:39:22] New Loop Start at 2025-09-02 23:39:22.737266
+[2025-09-02 23:39:22] --- Account Status ---
+[2025-09-02 23:39:22] Account Balance: 24.39
+[2025-09-02 23:39:22] Account Equity: 24.39
+[2025-09-02 23:39:22] Used Margin: 0.00
+[2025-09-02 23:39:22] Free Margin: 24.39
+[2025-09-02 23:39:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:39:22] ----------------------
+[2025-09-02 23:39:22] Checking for signals...
+[2025-09-02 23:39:22] No active trading signal. Holding current state.
+[2025-09-02 23:39:22] No positions to manage.
+[2025-09-02 23:39:22] --- Pending Orders ---
+[2025-09-02 23:39:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:39:22] ----------------------
+[2025-09-02 23:39:22] Waiting for the next loop...
+[2025-09-02 23:39:52] 
+==================================================
+[2025-09-02 23:39:52] New Loop Start at 2025-09-02 23:39:52.762564
+[2025-09-02 23:39:52] --- Account Status ---
+[2025-09-02 23:39:52] Account Balance: 24.39
+[2025-09-02 23:39:52] Account Equity: 24.39
+[2025-09-02 23:39:52] Used Margin: 0.00
+[2025-09-02 23:39:52] Free Margin: 24.39
+[2025-09-02 23:39:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:39:52] ----------------------
+[2025-09-02 23:39:52] Checking for signals...
+[2025-09-02 23:39:52] No active trading signal. Holding current state.
+[2025-09-02 23:39:52] No positions to manage.
+[2025-09-02 23:39:52] --- Pending Orders ---
+[2025-09-02 23:39:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:39:52] ----------------------
+[2025-09-02 23:39:52] Waiting for the next loop...
+[2025-09-02 23:40:22] 
+==================================================
+[2025-09-02 23:40:22] New Loop Start at 2025-09-02 23:40:22.784636
+[2025-09-02 23:40:22] --- Account Status ---
+[2025-09-02 23:40:22] Account Balance: 24.39
+[2025-09-02 23:40:22] Account Equity: 24.39
+[2025-09-02 23:40:22] Used Margin: 0.00
+[2025-09-02 23:40:22] Free Margin: 24.39
+[2025-09-02 23:40:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:40:22] ----------------------
+[2025-09-02 23:40:22] Checking for signals...
+[2025-09-02 23:40:22] No active trading signal. Holding current state.
+[2025-09-02 23:40:22] No positions to manage.
+[2025-09-02 23:40:22] --- Pending Orders ---
+[2025-09-02 23:40:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:40:22] ----------------------
+[2025-09-02 23:40:22] Waiting for the next loop...
+[2025-09-02 23:40:52] 
+==================================================
+[2025-09-02 23:40:52] New Loop Start at 2025-09-02 23:40:52.808707
+[2025-09-02 23:40:52] --- Account Status ---
+[2025-09-02 23:40:52] Account Balance: 24.39
+[2025-09-02 23:40:52] Account Equity: 24.39
+[2025-09-02 23:40:52] Used Margin: 0.00
+[2025-09-02 23:40:52] Free Margin: 24.39
+[2025-09-02 23:40:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:40:52] ----------------------
+[2025-09-02 23:40:52] Checking for signals...
+[2025-09-02 23:40:52] No active trading signal. Holding current state.
+[2025-09-02 23:40:52] No positions to manage.
+[2025-09-02 23:40:52] --- Pending Orders ---
+[2025-09-02 23:40:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:40:52] ----------------------
+[2025-09-02 23:40:52] Waiting for the next loop...
+[2025-09-02 23:41:22] 
+==================================================
+[2025-09-02 23:41:22] New Loop Start at 2025-09-02 23:41:22.838639
+[2025-09-02 23:41:22] --- Account Status ---
+[2025-09-02 23:41:22] Account Balance: 24.39
+[2025-09-02 23:41:22] Account Equity: 24.39
+[2025-09-02 23:41:22] Used Margin: 0.00
+[2025-09-02 23:41:22] Free Margin: 24.39
+[2025-09-02 23:41:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:41:22] ----------------------
+[2025-09-02 23:41:22] Checking for signals...
+[2025-09-02 23:41:22] No active trading signal. Holding current state.
+[2025-09-02 23:41:22] No positions to manage.
+[2025-09-02 23:41:22] --- Pending Orders ---
+[2025-09-02 23:41:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:41:22] ----------------------
+[2025-09-02 23:41:22] Waiting for the next loop...
+[2025-09-02 23:41:52] 
+==================================================
+[2025-09-02 23:41:52] New Loop Start at 2025-09-02 23:41:52.866436
+[2025-09-02 23:41:52] --- Account Status ---
+[2025-09-02 23:41:52] Account Balance: 24.39
+[2025-09-02 23:41:52] Account Equity: 24.39
+[2025-09-02 23:41:52] Used Margin: 0.00
+[2025-09-02 23:41:52] Free Margin: 24.39
+[2025-09-02 23:41:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:41:52] ----------------------
+[2025-09-02 23:41:52] Checking for signals...
+[2025-09-02 23:41:52] No active trading signal. Holding current state.
+[2025-09-02 23:41:52] No positions to manage.
+[2025-09-02 23:41:52] --- Pending Orders ---
+[2025-09-02 23:41:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:41:52] ----------------------
+[2025-09-02 23:41:52] Waiting for the next loop...
+[2025-09-02 23:42:22] 
+==================================================
+[2025-09-02 23:42:22] New Loop Start at 2025-09-02 23:42:22.899363
+[2025-09-02 23:42:22] --- Account Status ---
+[2025-09-02 23:42:22] Account Balance: 24.39
+[2025-09-02 23:42:22] Account Equity: 24.39
+[2025-09-02 23:42:22] Used Margin: 0.00
+[2025-09-02 23:42:22] Free Margin: 24.39
+[2025-09-02 23:42:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:42:22] ----------------------
+[2025-09-02 23:42:22] Checking for signals...
+[2025-09-02 23:42:22] No active trading signal. Holding current state.
+[2025-09-02 23:42:22] No positions to manage.
+[2025-09-02 23:42:22] --- Pending Orders ---
+[2025-09-02 23:42:22] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:42:22] ----------------------
+[2025-09-02 23:42:22] Waiting for the next loop...
+[2025-09-02 23:42:52] 
+==================================================
+[2025-09-02 23:42:52] New Loop Start at 2025-09-02 23:42:52.962175
+[2025-09-02 23:42:52] --- Account Status ---
+[2025-09-02 23:42:52] Account Balance: 24.39
+[2025-09-02 23:42:52] Account Equity: 24.39
+[2025-09-02 23:42:52] Used Margin: 0.00
+[2025-09-02 23:42:52] Free Margin: 24.39
+[2025-09-02 23:42:52] Margin Level: N/A (No margin used)
+[2025-09-02 23:42:52] ----------------------
+[2025-09-02 23:42:52] Checking for signals...
+[2025-09-02 23:42:52] No active trading signal. Holding current state.
+[2025-09-02 23:42:52] No positions to manage.
+[2025-09-02 23:42:52] --- Pending Orders ---
+[2025-09-02 23:42:52] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:42:52] ----------------------
+[2025-09-02 23:42:52] Waiting for the next loop...
+[2025-09-02 23:43:22] 
+==================================================
+[2025-09-02 23:43:22] New Loop Start at 2025-09-02 23:43:22.986944
+[2025-09-02 23:43:22] --- Account Status ---
+[2025-09-02 23:43:22] Account Balance: 24.39
+[2025-09-02 23:43:22] Account Equity: 24.39
+[2025-09-02 23:43:22] Used Margin: 0.00
+[2025-09-02 23:43:22] Free Margin: 24.39
+[2025-09-02 23:43:22] Margin Level: N/A (No margin used)
+[2025-09-02 23:43:22] ----------------------
+[2025-09-02 23:43:22] Checking for signals...
+[2025-09-02 23:43:23] No active trading signal. Holding current state.
+[2025-09-02 23:43:23] No positions to manage.
+[2025-09-02 23:43:23] --- Pending Orders ---
+[2025-09-02 23:43:23] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:43:23] ----------------------
+[2025-09-02 23:43:23] Waiting for the next loop...
+[2025-09-02 23:43:53] 
+==================================================
+[2025-09-02 23:43:53] New Loop Start at 2025-09-02 23:43:53.019929
+[2025-09-02 23:43:53] --- Account Status ---
+[2025-09-02 23:43:53] Account Balance: 24.39
+[2025-09-02 23:43:53] Account Equity: 24.39
+[2025-09-02 23:43:53] Used Margin: 0.00
+[2025-09-02 23:43:53] Free Margin: 24.39
+[2025-09-02 23:43:53] Margin Level: N/A (No margin used)
+[2025-09-02 23:43:53] ----------------------
+[2025-09-02 23:43:53] Checking for signals...
+[2025-09-02 23:43:53] No active trading signal. Holding current state.
+[2025-09-02 23:43:53] No positions to manage.
+[2025-09-02 23:43:53] --- Pending Orders ---
+[2025-09-02 23:43:53] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:43:53] ----------------------
+[2025-09-02 23:43:53] Waiting for the next loop...
+[2025-09-02 23:44:23] 
+==================================================
+[2025-09-02 23:44:23] New Loop Start at 2025-09-02 23:44:23.042941
+[2025-09-02 23:44:23] --- Account Status ---
+[2025-09-02 23:44:23] Account Balance: 24.39
+[2025-09-02 23:44:23] Account Equity: 24.39
+[2025-09-02 23:44:23] Used Margin: 0.00
+[2025-09-02 23:44:23] Free Margin: 24.39
+[2025-09-02 23:44:23] Margin Level: N/A (No margin used)
+[2025-09-02 23:44:23] ----------------------
+[2025-09-02 23:44:23] Checking for signals...
+[2025-09-02 23:44:23] No active trading signal. Holding current state.
+[2025-09-02 23:44:23] No positions to manage.
+[2025-09-02 23:44:23] --- Pending Orders ---
+[2025-09-02 23:44:23] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:44:23] ----------------------
+[2025-09-02 23:44:23] Waiting for the next loop...
+[2025-09-02 23:44:53] 
+==================================================
+[2025-09-02 23:44:53] New Loop Start at 2025-09-02 23:44:53.062997
+[2025-09-02 23:44:53] --- Account Status ---
+[2025-09-02 23:44:53] Account Balance: 24.39
+[2025-09-02 23:44:53] Account Equity: 24.39
+[2025-09-02 23:44:53] Used Margin: 0.00
+[2025-09-02 23:44:53] Free Margin: 24.39
+[2025-09-02 23:44:53] Margin Level: N/A (No margin used)
+[2025-09-02 23:44:53] ----------------------
+[2025-09-02 23:44:53] Checking for signals...
+[2025-09-02 23:44:53] No active trading signal. Holding current state.
+[2025-09-02 23:44:53] No positions to manage.
+[2025-09-02 23:44:53] --- Pending Orders ---
+[2025-09-02 23:44:53] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:44:53] ----------------------
+[2025-09-02 23:44:53] Waiting for the next loop...
+[2025-09-02 23:45:23] 
+==================================================
+[2025-09-02 23:45:23] New Loop Start at 2025-09-02 23:45:23.084071
+[2025-09-02 23:45:23] --- Account Status ---
+[2025-09-02 23:45:23] Account Balance: 24.39
+[2025-09-02 23:45:23] Account Equity: 24.39
+[2025-09-02 23:45:23] Used Margin: 0.00
+[2025-09-02 23:45:23] Free Margin: 24.39
+[2025-09-02 23:45:23] Margin Level: N/A (No margin used)
+[2025-09-02 23:45:23] ----------------------
+[2025-09-02 23:45:23] Checking for signals...
+[2025-09-02 23:45:23] No active trading signal. Holding current state.
+[2025-09-02 23:45:23] No positions to manage.
+[2025-09-02 23:45:23] --- Pending Orders ---
+[2025-09-02 23:45:23] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:45:23] ----------------------
+[2025-09-02 23:45:23] Waiting for the next loop...
+[2025-09-02 23:45:53] 
+==================================================
+[2025-09-02 23:45:53] New Loop Start at 2025-09-02 23:45:53.104733
+[2025-09-02 23:45:53] --- Account Status ---
+[2025-09-02 23:45:53] Account Balance: 24.39
+[2025-09-02 23:45:53] Account Equity: 24.39
+[2025-09-02 23:45:53] Used Margin: 0.00
+[2025-09-02 23:45:53] Free Margin: 24.39
+[2025-09-02 23:45:53] Margin Level: N/A (No margin used)
+[2025-09-02 23:45:53] ----------------------
+[2025-09-02 23:45:53] Checking for signals...
+[2025-09-02 23:45:53] No active trading signal. Holding current state.
+[2025-09-02 23:45:53] No positions to manage.
+[2025-09-02 23:45:53] --- Pending Orders ---
+[2025-09-02 23:45:53] Order Ticket: 2258179792, Type: 5, Price: 3522.334
+[2025-09-02 23:45:53] ----------------------
+[2025-09-02 23:45:53] Waiting for the next loop...
+[2025-09-02 23:48:58] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:48:58] 
+==================================================
+[2025-09-02 23:48:58] New Loop Start at 2025-09-02 23:48:58.088040
+[2025-09-02 23:48:58] --- Account Status ---
+[2025-09-02 23:48:58] Account Balance: 24.39
+[2025-09-02 23:48:58] Account Equity: 24.39
+[2025-09-02 23:48:58] Used Margin: 0.00
+[2025-09-02 23:48:58] Free Margin: 24.39
+[2025-09-02 23:48:58] Margin Level: N/A (No margin used)
+[2025-09-02 23:48:58] ----------------------
+[2025-09-02 23:48:58] Checking for signals...
+[2025-09-02 23:48:58] No active trading signal. Holding current state.
+[2025-09-02 23:48:58] No positions to manage.
+[2025-09-02 23:48:58] --- Pending Orders ---
+[2025-09-02 23:48:58] Order Ticket: 2258179792, Symbol: XAUUSDm, Type: 5, Price: 3522.334, Time: 2025-09-02 23:30:52
+[2025-09-02 23:48:58] ----------------------
+[2025-09-02 23:48:58] Waiting for the next loop...
+[2025-09-02 23:49:45] Connected to MetaTrader 5 successfully!
+[2025-09-02 23:49:45] 
+==================================================
+[2025-09-02 23:49:45] New Loop Start at 2025-09-02 23:49:45.243725
+[2025-09-02 23:49:45] --- Account Status ---
+[2025-09-02 23:49:45] Account Balance: 24.39
+[2025-09-02 23:49:45] Account Equity: 24.39
+[2025-09-02 23:49:45] Used Margin: 0.00
+[2025-09-02 23:49:45] Free Margin: 24.39
+[2025-09-02 23:49:45] Margin Level: N/A (No margin used)
+[2025-09-02 23:49:45] ----------------------
+[2025-09-02 23:49:45] Checking for signals...
+[2025-09-02 23:49:45] No active trading signal. Holding current state.
+[2025-09-02 23:49:45] No positions to manage.
+[2025-09-02 23:49:45] --- Pending Orders ---
+[2025-09-02 23:49:45] Order Ticket: 2258179792, Symbol: XAUUSDm, Type: 5, Price: 3522.334, Time: 2025-09-02 23:30:52
+[2025-09-02 23:49:45] ----------------------
+[2025-09-02 23:49:45] Waiting for the next loop...
+[2025-09-02 23:54:45] 
+==================================================
+[2025-09-02 23:54:45] New Loop Start at 2025-09-02 23:54:45.354016
+[2025-09-02 23:54:45] --- Account Status ---
+[2025-09-02 23:54:45] Account Balance: 24.39
+[2025-09-02 23:54:45] Account Equity: 24.39
+[2025-09-02 23:54:45] Used Margin: 0.00
+[2025-09-02 23:54:45] Free Margin: 24.39
+[2025-09-02 23:54:45] Margin Level: N/A (No margin used)
+[2025-09-02 23:54:45] ----------------------
+[2025-09-02 23:54:45] Checking for signals...
+[2025-09-02 23:54:45] No active trading signal. Holding current state.
+[2025-09-02 23:54:45] No positions to manage.
+[2025-09-02 23:54:45] --- Pending Orders ---
+[2025-09-02 23:54:45] Order Ticket: 2258179792, Symbol: XAUUSDm, Type: 5, Price: 3522.334, Time: 2025-09-02 23:30:52
+[2025-09-02 23:54:45] ----------------------
+[2025-09-02 23:54:45] Waiting for the next loop...
+[2025-09-02 23:59:45] 
+==================================================
+[2025-09-02 23:59:45] New Loop Start at 2025-09-02 23:59:45.396117
+[2025-09-02 23:59:45] --- Account Status ---
+[2025-09-02 23:59:45] Account Balance: 24.39
+[2025-09-02 23:59:45] Account Equity: 24.39
+[2025-09-02 23:59:45] Used Margin: 0.00
+[2025-09-02 23:59:45] Free Margin: 24.39
+[2025-09-02 23:59:45] Margin Level: N/A (No margin used)
+[2025-09-02 23:59:45] ----------------------
+[2025-09-02 23:59:45] Checking for signals...
+[2025-09-02 23:59:45] No active trading signal. Holding current state.
+[2025-09-02 23:59:45] No positions to manage.
+[2025-09-02 23:59:45] --- Pending Orders ---
+[2025-09-02 23:59:45] Order Ticket: 2258179792, Symbol: XAUUSDm, Type: 5, Price: 3522.334, Time: 2025-09-02 23:30:52
+[2025-09-02 23:59:45] ----------------------
+[2025-09-02 23:59:45] Waiting for the next loop...
+[2025-09-03 00:04:58] Connected to MetaTrader 5 successfully!
+[2025-09-03 00:04:58] 
+==================================================
+[2025-09-03 00:04:58] New Loop Start at 2025-09-03 00:04:58.426817
+[2025-09-03 00:04:58] --- Account Status ---
+[2025-09-03 00:04:58] Account Balance: 24.39
+[2025-09-03 00:04:58] Account Equity: 22.74
+[2025-09-03 00:04:58] Used Margin: 17.61
+[2025-09-03 00:04:58] Free Margin: 5.13
+[2025-09-03 00:04:58] Margin Level: 129.13%
+[2025-09-03 00:04:58] ----------------------
+[2025-09-03 00:04:58] Checking for signals...
+[2025-09-03 00:04:58] No active trading signal. Holding current state.
+[2025-09-03 00:04:58] Managing 1 open position(s)...
+[2025-09-03 00:04:58] --- Analyzing Position Ticket: 2258179792 ---
+[2025-09-03 00:04:58] Position 2258179792 has no SL/TP. Setting them now.
+[2025-09-03 00:04:59] SL/TP successfully modified for ticket 2258179792.
+[2025-09-03 00:04:59] Position 2258179792 current profit/loss: -1.65
+[2025-09-03 00:04:59] Waiting for the next loop...
